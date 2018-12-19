@@ -1,0 +1,97 @@
+ESTATUTOS DE LA ASOCIACIÓN
+
+CAPÍTULO I
+DENOMINACIÓN, FINES, ACTIVIDADES, DOMICILIO Y ÁMBITO
+
+Artículo 1.- Denominación
+Con la denominación de Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid, se constituye una entidad sin ánimo de lucro, al
+amparo del artículo 22 CE, que se regirá por la Ley Orgánica 1/2002, de 22 de marzo reguladora del derecho de asociación y normas concordantes y las que en cada momento le sean aplicables y por los Estatutos vigentes.
+
+Artículo 2.- Fines
+-Divulgación y promoción de la informática y la tecnología haciendo énfasis en el uso del software libre
+-Divulgación y promoción de sistemas operativos libres basados en GNU/Linux
+-Divulgación y promoción de las cuatro libertades del software libre: derecho de publicación, uso, distribución y edición
+-Servir de medio de promoción e inetrcambio de experiencias del software libre entre alumnos y profesores de los diferentes niveles de       enseñanza, especialmente universitaria
+-Realización de actividades, cursos, congresos, charlas e instalaciones,el acceso a los sitemas operativos y demás aplicaciones de software libre
+-Promoción del aprendizaje cooperativo y autodidacta sobre tecnología y software libre
+
+Artículo 3.- Actividades
+Para el cumplimiento de estos fines, se realizarán las siguientes actividades:
+-Realización de charlas, talleres y competiciones
+-Creación y promoción de grupos de interés y secciones técnicas
+-Proyectos de desarrollo y documentación sobre software libre
+-Encuentros periódicos entre usuarios
+-Cualquier otra actividad lícita que sirva a los fines de esta asociación
+
+Artículo 4.- Domicilio social
+La Asociación establece su domicilio social en(completo según se indica):
+Av/ de la universidad, Nº 30, Campus de la escuela politécnica superior de la universidad Carlos III de Madrid, despacho 2.2.C05,
+Localidad de Leganés, CP: 28911
+
+Artículo 5.-Ámbito territorial
+El ámbito de actuación en el que se desarrollarán principalmente las actividades de la Asociación será el territorio de Leganés
+
+
+CAPÍTULO II
+ÓRGANOS DE LA ASOCIACIÓN
+
+Artículo 6.- Órganos de gobierno y representación de la Asociación
+Los órganos de gobierno y representación de la Asociación son, respectivamente, la Asamblea General y la Junta Directiva
+
+Artículo 7.- Naturaleza
+La Asamblea General es el órgano supremo de gobierno de la Asociación y estará integrada por todos los asociados
+
+Artículo 8.- Reuniones
+Las reuniones de la Asamblea General se celebrarán, al menos, 1 vez al año. Teniendo el carácter de extraordinaria cuando lo solicite
+un número de asociados igual o superior al 10%
+
+Artículo 9.- Convocatorias
+Las convocatorias de las Asambleas Generales, tanto ordinarias como extraordinarias, se harán por escrito, expresando el lugar, día y hora de la reunión, así como el orden del día. Entre la convocatoria y el día señalado para la celebración de la Asamblea en primera convocatoria habrán de mediar al menos 3 días, pudiendo así mismo hacerse constar si procediera la fecha en que se reunirá la Asamblea en segunda convocatoria, sin que entre una convocatoria y otra pueda mediar un plazo inferior a 3 horas.
+Por razones de urgencia, podrán reducirse los mencionados plazos.
+
+Artículo 10.- Quórum de validez de constitución y quórum de adopción de acuerdos
+Las Asambleas Generales, tanto ordinarias como extraordinarias, quedarán válidamente constituidas cuando concurran a ellas, presentes o representados, al menos 1/3 de los asociados con derecho a voto.
+Los acuerdos se tomarán por mayoría simple de votos de las personas presentes o representadas, salvo en los supuestos de modificación de estatutos, disolución de la asociación, disposición o enajenación de bienes o remuneraciones de los miembros de la JUnta Directiva, en los que será necesaria una mayoría cualificada del 60% de votos de las personas presentes o representadas, decidiendo en caso de empate el voto de calidad del Presidente, o de quien haga las veces.
+
+Artículo 11.- Facultades de la Asamblea General
+Son facultades de la Asamblea General:
+a)Nombramiento de la Junta Directiv y sus cargos, administradores y representantes, así mismo sus socios de honor
+b) Examinar y aprobar los presupuestos anuales y las cuentas
+c)Aprobar, en su caso, la gestión de la Junta Directiva
+d)Fijar las cuotas ordinarias y extraordinarias
+e)Acuerdo para constituir una federación de asociaciones o integrarse en alguna
+f)Expulsión de socios a propuesta de la Junta Directiva
+g)Solicitud de la declaracion de utilidad pública
+h)Disposición y enajenación de bienes por mayoría cualificada
+i)Aprobar el Reglamento de Régimen Interior
+j)Remuneración, en su caso, de los miembros de la Junta Directiva
+k)La modificación de los estatutos(convocada al efecto y aprobación de la mayoría cualificada)
+l)La disolución de la Asociación(convocada al efecto y aprovada por la mayoría cualificada)
+
+Artículo 12.- Naturaleza y composición
+La Junta Directiva es el órgano de representación que gestiona y representa los interes de la asociación de acuerdo con las disposiciones y directivas de la Asamblea General. Estará formada por un Presidente, Secretario y en su caso un Vicepresdidente, un Tesorero, un Coordinador de actividades y un vocal(no incluir nombre), designados por la Asamblea General entre los asociados mayores de edad, en pleno uso de sus derechos civiles que no estén incursos en motivos de incompatibilidad legalmente establecidos.
+Su mandato tendrá una duración de 1 año. El Presidente, Vicepresidente y Secretario de la Junta Directiva será así mismo Presidente, Vicepresidente y Secretario de la Asociación y de la Asamblea General. Todos los cargos de la Junta Directiva se desempeñan de forma gratuita.
+
+Artículo 13.- Procedimiento para la elección y sustitución de miembros
+La elección de miembros de la Junta Directiva por la Asamblea General se realizará mediante una presentación de canditaturas a las que se les permitirá la adecuada difusión, con una antelación de 15 días a la celebración de la correspondiente reunión. En caso de ausencia o enfermedad de algún miembro de la JUnta Directiva podrá ser suplido provisionalmente por otro de los componentes de ésta, previa predesignación por mayoría de sus miembros, salvo en el caso del Presidente
+que será sustituido por eel Vicepresidente.
+Los miembros de la Junta Directiva cesarán:
+a)Por transcurso del periodo de sus mandatos
+b)Por renuncia expresa
+c)Por acuerdo de la Asamblea General
+
+
+Artículo 14.- Reuniones y quórum de constitución y adopción de acuerdos
+La Junta Directiva se reunirá previa convocatoria debiendo mediar al menos 3 días entre ésta y su celebración, cuantas veces lo determine su Presidente y a petición de 2/5 de sus miembros. Quedará constituida cuando asista la mitad más uno de sus miembros y para que sus acuerdos sean válidos deberán ser adoptados por mayoría de votos. En caso de empate, será de calidad del voto del Presidente o de quien haga sus veces.
+
+Artículo 15.- Facultades de la Junta Directiva
+Son facultades de la Junta Directiva:
+a)Dirigir las actividades sociales y llevar la gestión económica y administrativa de la Asociación, acordando realizar los oportunos contratos y actos sin perjuicio de lo dispuesto en el artículo 11, apartado h).
+b)Ejecutar los acuerdos de la Asamblea General
+c)Elaborar y someter la aprobación de la Asamblea General los presupuestos anuales y las cuentas
+d)Elaborar en su caso el Reglamento de Régimen Interior
+e)Resolver sobre la admisión de nuevos asociados-
+f)Nombrar delegados para alguna determinada actividad de la Asociación
+g)Cualquiera otra facultad que no sea de la exclusiva competencia de la Asamblea General
+
+
