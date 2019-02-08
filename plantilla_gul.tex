@@ -1,22 +1,35 @@
-\documentclass[12pt]{article}
-\usepackage[left=3.5cm, right=3.5cm, top=3cm, bottom=3cm]{geometry}
+\documentclass[10pt, spanish, pdftex]{gulplantilla}
+
+%Encabezado
 \usepackage[utf8]{inputenc}
 \usepackage[section]{placeins}
 \usepackage{enumitem}
+\usepackage[spanish]{babel}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{lipsum}
 
-\title{Estatutos de la asociación - Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid}
-%\author{}
-\date{25 de enero de 2019}
+\setlength{\headheight}{75pt}
+\renewcommand{\headrulewidth}{0pt}
+\header{logoHorizontal.pdf}
+\footer{Avenida de la Universidad, 30 28911 Legan\'es}{2.3.C05}{info@gul.es}{gul.es}
+\pagestyle{fancy}
 
 \begin{document}
-\maketitle
-\thispagestyle{empty}
-\newpage
+%Portada
+\gtitle{Estatutos de la asociación\\Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid}{25 de enero de 2019}{logoHorizontal.pdf}
+\newpage \header{logoHorizontal.pdf}
 
+% Página con contenido
 \tableofcontents
-\newpage
+\newpage \header{logoHorizontal.pdf}
+\mdseries
 
 
+\newpage \header{logoHorizontal.pdf}
+\header{logoHorizontal.pdf}
 \section{CAPÍTULO I: DENOMINACIÓN, FINES, ACTIVIDADES, DOMICILIO Y ÁMBITO}
 
 
@@ -26,7 +39,7 @@ Con la denominación de Grupo de Usuarios de Linux de la Universidad Carlos III 
 \subsection{Artículo 2.- Fines}
 \begin{itemize}
     \item Divulgación y promoción de la informática y la tecnología haciendo énfasis en el uso del software libre.
-    \item Divulgación y promoción de sistemas operativos libres basados en GNU/Linux.
+    \item Divulgación y promoción de sistemas operativos libres basados en GNU/Linux. Linux es el kernel o núcleo en el que se basan diferentes sitemas operativos derivados de UNIX, siendo este último un sistema operativo creado en 1969. El término GNU hace referencia al conjub¡nto de programas y aplicaciones que definen el tipo de sistema operativo que se forma, GNU son aquellos cuyo codigo fuente es libre. Por ello cabe destacar que no todos los sistemas basados en Linux son GNU, como el sistema operativo android, el cual está basado en Linux pero no el software no es libre.
     \item Divulgación y promoción de las cuatro libertades del software libre: derecho de publicación, uso, distribución y edición.
     \item Servir de medio de promoción e intercambio de experiencias del software libre entre alumnos y profesores de los diferentes niveles de enseñanza, especialmente universitaria.
     \item Realización de actividades, cursos, congresos, charlas e instalaciones, el acceso a los sitemas operativos y demás aplicaciones de software libre.
@@ -50,13 +63,16 @@ La Asociación establece su domicilio social en (completo según se indica) Aven
 El ámbito de actuación en el que se desarrollarán principalmente las actividades de la Asociación será el territorio de Leganés.
 
 
+\newpage \header{logoHorizontal.pdf}
+\header{logoHorizontal.pdf}
 \section{CAPÍTULO II: ÓRGANOS DE LA ASOCIACIÓN}
 
 
 \subsection{Artículo 6.- Órganos de gobierno y representación de la Asociación}
 Los órganos de gobierno y representación de la Asociación son, respectivamente, la Asamblea General y la Junta Directiva.
 
-
+\newpage \header{logoHorizontal.pdf}
+\header{logoHorizontal.pdf}
 \section{CAPÍTULO III: ASAMBLEA GENERAL}
 
 \subsection{Artículo 7.- Naturaleza}
@@ -91,6 +107,8 @@ Son facultades de la Asamblea General:
 \end{enumerate}
 
 
+\newpage \header{logoHorizontal.pdf}
+\header{logoHorizontal.pdf}
 \section{CAPÍTULO IV: JUNTA DIRECTIVA}
 
 
@@ -134,21 +152,26 @@ El presidente tendrá las siguientes atribuciones:
     \item Adoptar cualquier medida urgente que la buena marcha de la Asociación aconseje, resulte necesaria o conveniente para el desarrollo de sus actividades, sin perjucio de dar cuenta posteriormente a la junta directiva.
 \end{enumerate}
 
-\subsection{Artículo 17.- El Vicepresidente}
+\subsection{Artículo 17.- El Vicepresidente/Secretario}
 El Vicepresidente sustituirá al Presidente en ausencia de éste, sea por enfermedad o cualquier otro motivo, y tendrá las mismas atribuciones que él.
 
 Tendrá a su cargo la dirección de los trabajos puramente administrativos de la Asociación, expedirá certificados, llevará los ficheros y custodiará la documentación de la entidad, remitiendo en su caso, las comunicaciones a la Administración, con los requisitos pertinentes.
 
-\subsection{Artículo 18.- El Secretario}
-El Secretario tendrá a su cargo la dirección de los trabajos puramente administrativos de la Asociación, expedirá certificaciones, llevará los ficheros y custodiará la documentación de la entidad, remitiendo en su caso, las comunicaciones a la Administración, con los requisitos pertinentes.
+%\subsection{Artículo 18.- El Secretario}
+%El Secretario tendrá a su cargo la dirección de los trabajos %puramente administrativos de la Asociación, expedirá %certificaciones, llevará los ficheros y custodiará la %documentación de la entidad, remitiendo en su caso, las %comunicaciones a la Administración, con los requisitos %pertinentes.
+
+\subsection{Artículo 18.- El Coordinador de actividades}
+El Coordinador de actividades se encargará de la planificación y organización de los grupos de trabajo, charlas y Jornadas Técnicas y demás eventos extraordinarios que realice la Asociación, además de la administración de los recursos y espacios de trabajo para dichos eventos y ratificación de asistencia para aquellos que tengan alguna clase de remuneración, ya sea económica o de otro carácter.
 
 \subsection{Artículo 19.- El Tesorero}
-El Tesorero recaudará los fondos pertenecientes a la Asociación y dará cumplimiento a las órdenes de pago que expida el Presidente.
+El Tesorero recaudará los fondos pertenecientes a la Asociación y dará cumplimiento a las órdenes de pago que expida el Presidente, además de llevar el control de la cuenta bancaria de la asociación, y garantizar el buen uso de los recursos.
 
 \subsection{Artículo 20.- El Vocal}
 El Vocal tendrán las obligaciones propias de su cargo como miembro de la Junta Directiva y así como las que nazcan de las delegaciones o comisiones de trabajo que la propia junta le encomienda.
 
 
+\newpage \header{logoHorizontal.pdf}
+\header{logoHorizontal.pdf}
 \section{CAPÍTULO V: LOS ASOCIADOS}
 
 
@@ -175,7 +198,7 @@ La condición de asociado activo permitirá el acceso a los derechos de asociado
 
 La potestad de autorizar la inactividad de un asociado, por cualquiera de los motivos anteriores, recae en la Junta Directiva, la cual deberá constar de una mayoría del 60\% para efectuar dicha acción de inhabilitación de derechos del asociado.
 
-La condición de activo se recuperará en el momento en el que el asociado inactivo en cuestión acuda a una reunión mensual o de grupo de trabajo.
+La condición de activo se recuperará en el momento en el que el asociado inactivo en cuestión acuda a una reunión mensual o de grupo de trabajo, sin embargo; si se trata de una asistencia una reunión invocada al efecto de una votación, el voto de dicho asociado no será contabilizado en dicha reunión, pero sí en las siguientes si mantiene su condición de activo.
 
 La condición de inactividad no será reflejada en Libro de Socios, sino que será materia de RFI.
 
@@ -210,6 +233,7 @@ Los asociados tendrán las siguientes obligaciones:
 \end{enumerate}
 
 
+\newpage \header{logoHorizontal.pdf}
 \section{CAPÍTULO VI: RÉGIMEN DE FINANCIACIÓN, CONTABILIDAD Y DOCUMENTACIÓN}
 
 
@@ -232,6 +256,7 @@ Los recursos económicos previstos para el desarrollo de los fines y actividades
 La asociación carece de patrimonio inicial en el momento de fundación. El cierre del ejercicio asociativo será el día 15 de junio.
 
 
+\newpage \header{logoHorizontal.pdf}
 \section{CAPÍTULO VII: DISOLUCIÓN}
 
 
@@ -256,4 +281,21 @@ Para su aprobación se requiere mayoría absoluta favorable de la Junta Directiv
 
 No se podrán ampliar mediante RFI materias competencia de la Junta Directiva expuestas en estos Estatutos.
 
+\newpage \header{logoHorizontal.pdf}
+Este documento ha sido elaborado y ratificado por los miembros de la presente Junta Directiva de la asociación Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid
+\newline
+\begin{center}
+\textit{En Leganés, a 25 de enero de 2019}
+\end{center}
+Firmado por:
+\newline\newline\newline
+Presidente
+\newline\newline\newline\newline\newline
+Vicepresidente/Secretario
+\newline\newline\newline\newline\newline
+Coordinador de actividades
+\newline\newline\newline\newline\newline
+Tesorero
+\newline\newline\newline\newline\newline
+Vocal
 \end{document}
