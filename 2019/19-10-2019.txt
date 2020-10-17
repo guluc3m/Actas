@@ -1,0 +1,31 @@
+Buenos días,
+
+Como la reunión de este mes ha sido un poco caótica y no se ha celebrado el
+segundo viernes del mes como es habitual, os hago un pequeño resumen para
+los que no pudisteis venir:
+
+   - *Refrescar la imagen del GUL:* se prevé modificar algunos rasgos
+   estéticos, como carteles, panfletos... Como ayer no había nadie de los que
+   llevan el diseño gráfico, se quedó a la espera.
+   - *Jornadas técnicas:* Como otros años el principal problema ha sido la
+   falta de asistencia, se puso en común que lo mejor que podríamos hacer es
+   ser más previsores y planearlo con más tiempo.
+   - *Reinstalación del server:* Hubo problemas con el adaptador y los
+   discos para hacer la copia de seguridad, por lo cual queda pendiente.
+   - *Evento de computación cuántica:* Se comentó que se van a celebrar, y
+   recomiendo a todo el mundo ir.
+   - *Presupuestos: *Estamos pendientes de los requisitos de la
+   universidad, se llegó al acuerdo de que una de las peticiones
+   imprescindibles eran los premios/gastos de organización para futuros
+   Hackatones/Jornadas/Eventos. También se habló de un cluster de raspberry, y
+   un asistente de voz (posiblemente unificables).
+- *Nuevo grupo de C++: *Se ha creado un grupo con el propósito de reunirnos
+   cada cierto tiempo a compartir los "proyectos/experimentos" que estamos
+   haciendo en este lenguaje, y así aprender entre todos.
+   - *Primera reunión de The Coding Brewery:* Se propuso como primer
+   proyecto un programa que se conecte a la API de spotify que cree listas de
+   reproducción con las canciones comunes de dos usuarios, (y posibles ideas
+   que surjan sobre este tema).
+
+Buen fin de semana guleros, un saludo.
+Juan Francisco García

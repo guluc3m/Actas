@@ -1,0 +1,20 @@
+Hola compis,
+
+Como sabréis estamos en proceso de adaptación al nuevo estilo de reuniones, así que no estamos haciendo actas como tal para ellas (aunque nos gustaría hacerlas para las reuniones de junta, que todavía no hemos celebrado debido a problemas de tiempo y organización). Escribo este correo para resumir muy brevemente lo que hicimos el viernes pasado.
+
+En cuanto a temas administrativos, confirmamos que hasta el curso que viene no se va a realizar la mudanza. Se ve que con el lío que hemos tenido con la migración de las máquinas (y que seguimos teniendo ya que todavía hay alguna rulando por el despacho, aunque ya apagada) a los de la administración les hemos descuajaringado los planes. Por otra parte, las charlas que tenemos propuestas para la semana de asociaciones de septiembre/octubre de 2018 son un taller de arduino, introducción a Linux e introducción a Python.
+
+Como primera charla de este formato hemos tenido una introducción a las expresiones regulares, después de una ronda de proposiciones y votación. Las charlas que tenemos apuntadas para próximos meses son:
+
+- UEFI, grub, initrd y demás cosas del arranque de Linux
+- Intro a las redes e iptables
+- El árbol de directorios de Linux
+- Mundo laboral
+- Contenedores (Docker)
+- libvirt
+- VIM
+- Bash
+
+En próximas ediciones se volverá a hacer una ronda de proposiciones sobre estas que tenemos ya y votaremos. Un saludo y feliz mes de finales para los estudiantes,
+
+Jorge Marcos

@@ -1,0 +1,19 @@
+Buenas,
+
+En la reunión de hoy hemos hecho un breve repaso de los dos grupos activos de actividades: El ordenador de 16 bits y el grupo de juegos.Os pongo un breve resumen de ambos proyectos, pero si no os interesa, sabed que ambos grupos siguen vivos, activos y progresando adecuadamente.
+
+Grupo del ordenador de 16bits
+El proyecto del ordenador de 16 bits consiste en crear un ordenador desde 0, CPU, código máquina, código de alto nivel, etc. La CPU y todo el hardware del ordenador menos la memoria, está programada en VHDL, y el lenguaje con el que programaremos el ordenador lo vamos a inventar pero será parecido a C. Ahora mismo está la CPU diseñada y programada, y estamos desarrollando las microinstrucciones de la misma. El objetivo de este año es conseguir una terminal en una pantalla en la que se pueda escribir texto con un teclado. Si tenéis interés en participar estad atentos al canal de discord para próximas reuniones.
+
+Grupo de juegos
+En el grupo de juegos aprendemos a hacer juegos, este año nos hemos propuesto como objetivo realizar un juego de cartas/gestión de mazos rollo Munchkin/Slay the spire. Para ello vamos a utilizar Godot y como no tenemos ni idea del mismo estamos aprendiendo desde 0. Godot tiene una interfaz muy parecida a Unity y de igual forma sus scripts se pueden hacer en C# o su propio lenguaje que es parecido a Python.
+
+En otro orden de cosas, por dejarlo registrado: La universidad ha cambiado el bombín del despacho, por lo que no hay libre acceso. Se puede solicitar entrar, pero límite de 2 personas y de tiempo. Aun así, dada la situación tampoco nos afecta en especial.
+
+Se ha formado una nueva Junta para este año, los miembros somos:
+- Presidente: Daniel Rodriguez
+- Vicepresidente: Jaime Romero
+- Secretario/Coordinador de actividades: Juan Banga
+- Tesorero/Vocal: Alejandro Torre 
+
+Sobre los servidores, se están "recuperando" poco a poco, ya tenemos 1 de las dos ILO funcionando gracias a Juan, y próximamente esperamos tener la siguiente. Una vez se tenga eso se puede empezar a reinstalar todo para tener los servidores adecentados y estables, ya que estaban bastante desactualizados y desmantenidos.
