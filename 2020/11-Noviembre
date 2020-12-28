@@ -1,0 +1,9 @@
+Acta reunión Noviembre 2020
+
+- Reuniones: Las reuniones se fijan al segundo viernes de cada mes, a las 20:00, dado el éxito apabullante de las votaciones. Todos los presentes votan a favor.
+- Servidores: Todavía no se ha podido dockerizar la app de cursos, sin embargo, en la máquina que tiene la lista de correo y el repositorio se podría empezar a reinstalar y dockerizar la lista y empezar a instalar cosas nuevas, como un nextcloud o matrix.
+- Grupos de trabajo: 
+---- Juegos: Ahí anda, siguen reuniéndose los lunes, avanzando en Godot y poco más. Ya hay casi una versión muy mínima jugable.
+---- Ordenador 16bits: Terminando de desarrollar el lenguaje en ensamblador y estableciendo características para, en la próxima reunión, repartir el trabajo disponible hasta Enero 2021.
+- Sugerencias y reclamos:
+ ---- Se propone rehacer la app de cursos en tecnologías actuales (JS), cualquier persona interesada es libre de apuntarse al plan.
