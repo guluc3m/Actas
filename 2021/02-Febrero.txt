@@ -1,0 +1,48 @@
+Orden del día
+
+1. Estado de lo servidores y novedades
+2. Grupos de trabajo
+3. Propuestas para nuevos servicios (si alguien tiene alguna)
+4. Sugerencias y reclamos
+
+## Estado de los servidores y novedades
+
+La máquina con la lista de correo, mirror y ftp ya ha sido migrada.
+
+Tristemente la lista de las direcciones de correo que estaban suscritos a la misma se perdió, ya que por
+descuido el backup no se sacó de la máquina antes de formatear. La lista ha pasado de ser 
+gul@gul.uc3m.es a gul<arroba>gul<punto>uc3m<punto>es. 
+
+El mirror sigue siendo un mirror de Debian y el ftp se ha pasado de FTP a NextCloud, pasando 
+al mismo tiempo todo el contenido que había en el drive al NextCloud.
+
+Siguiente paso consiste en crear un Docker para servir las webs y formatear esa máquina.
+
+Futuro de los servidores: Hostear un canal (o el equivalente) de Matrix para migrar del servidor de Discord
+que se montó con todo esto del remoto, y además poder incluir bridges de Telegram, Discord e incluso Whatsapp,
+unificando así además todos los canales de comunicación en 1 solo.
+
+Adicionalmente hay pensado montar cosas más locas, como un servidor de Minetest (Minecraft libre).
+
+
+## Grupos de trabajo
+
+Grupo de juegos sigue vivo y activo, todas las semanas reuniéndose los Lunes de 21:00 a lo que duremos, mientras
+más corto mejor. Progresa adecuadamente.
+
+Grupo de CPU de 16 bits está desaparecido en combate, la persona que tiraba del carro ha empezado 2021 muy liado y
+los demás integrantes no parecen dispuestos a mover el tema...
+
+## Propuestas para nuevos servicios
+
+Como se ha comentado antes, está la propuesta del servidor de Minetest.
+Dado que nadie se ha presentado a la reunión, pues se asume que a nadie le importa esto.
+
+## Sugerencias y reclamos
+
+Rediseño de la web, una persona por el Discord comunicó su interés en partcipar un desarrollo nuevo (de diseño) para
+la web, ya que se quedó a medio hacer la actual. En cuanto esté el Docker montado se puede ir empezando.
+
+Sugerencia: Que alguien se presente a la reunión, si en Marzo no se presenta nadie más, se cancelan las reuniones
+hasta volver a lo presencial.
+
