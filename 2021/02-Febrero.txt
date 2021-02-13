@@ -11,7 +11,7 @@ La máquina con la lista de correo, mirror y ftp ya ha sido migrada.
 
 Tristemente la lista de las direcciones de correo que estaban suscritos a la misma se perdió, ya que por
 descuido el backup no se sacó de la máquina antes de formatear. La lista ha pasado de ser 
-gul@gul.uc3m.es a gul<arroba>gul<punto>uc3m<punto>es. 
+gul<arroba>gul<dot>uc3m<punto>es a gul<arroba>gul<punto>uc3m<punto>es. 
 
 El mirror sigue siendo un mirror de Debian y el ftp se ha pasado de FTP a NextCloud, pasando 
 al mismo tiempo todo el contenido que había en el drive al NextCloud.
