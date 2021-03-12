@@ -1,0 +1,28 @@
+Orden del día
+
+1. Actualización web
+2. Estado servidores
+3. Grupos de trabajo
+4. Sugerencias y reclamos
+
+## Actualización de la Web
+
+La [web](https://gul.es) se quedó a medio hacer, el diseño no acaba de cuajar y con la ayuda de Ivan (@IvanM1903) se va a hacer un lavado de cara completo
+de la web, con nuevas secciones, contenido, enlaces y diseño. El diseño inicial está en el canal del Discord `rediseño-web`. Cualquiera es libre de participar,
+aunque no hay tantas cosas que hacer como para que pueda participar mucha gente...
+
+## Estado servidores
+
+Las webs estáticas ya están migradas: gul.es, radio.gul.es, jamon.gul.es y iot.gul.es ya apuntan a la nueva máquina. Solo queda pendiente la app de cursos.gul.es, que
+está hecha en ruby, muy deprecada y no sabemos ruby (xdddd).
+
+## Grupos de trabajo
+
+- Juegos: Vivos, hemos realizado un GDD (Game Design Document) inicial y ahora a programar y montar un Mínimo Producto Viable con el que ya nos estaríamos metiendo
+en mecánicas y todas las movidas existentes.
+- CPU: No recuerdo si lo comenté en el acta anterior, pero este grupo está en "stand-by" o disuelto. Según como les dé a sus miembros. Por ahora no tienen actividad.
+
+## Sugerencias y reclamos
+
+Visto lo visto, se suspenden las reuniones mientras sigamos en remoto, ya que parece que no interesan a la gente. Solo se organizará reunión cuando haya que comunicar/solicitar/discutir
+algo importante, rollo compra de servidores para cambiar los actuales o disolución de la asociación.
