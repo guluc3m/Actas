@@ -1,6 +1,6 @@
 # Acta de la reunión del 13 de Septiembre de 2023
 
-Asisten a la reunión: [Luis Daniel Casais](https://github.com/rajayonin), [Jose Antonio Verde](https://github.com/joseaverde), Alejandro de la Torre, Nala, [Mario](https://github.com/KaruzoHikari), [Jorge Lázaro](https://github.com/JorgeyGari), [Jorge Muñoz](https://github.com/munozyanez), [Daniel Gómez](https://github.com/Spam200), [Juan Banga](https://github.com/Juanbanpar), y [Daniel Rodríguez](https://github.com/Patataman).
+Asisten a la reunión: [Luis Daniel Casais](https://github.com/rajayonin), [Jose Antonio Verde](https://github.com/joseaverde), Alejandro de la Torre, [Nala](https://twitter.com/guluc3m/status/1702006818145190099), [Mario](https://github.com/KaruzoHikari), [Jorge Lázaro](https://github.com/JorgeyGari), [Jorge Muñoz](https://github.com/munozyanez), [Daniel Gómez](https://github.com/Spam200), [Juan Banga](https://github.com/Juanbanpar), y [Daniel Rodríguez](https://github.com/Patataman).
 
 
 ## Orden del día
