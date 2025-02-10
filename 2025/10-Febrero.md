@@ -72,5 +72,8 @@ De forma remota
 |      '.____.'    \/^\/    '.____.' 
 '-->
 
+### Talleres
+ * EMACS
+ * GUL Jamón esta vez sí por el amor de Dios.
 
 Owattazo!
