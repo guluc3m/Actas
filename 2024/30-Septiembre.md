@@ -7,7 +7,7 @@ Asisten a la reunión:
  * [Daniel Rodríguez](https://github.com/Patataman)
  * [José Antonio Verde Jiménez](https://github.com/joseaverde)
  * [Salva Ayala Iglesias](https://github.com/Goldensit0)
- * [Jorge Adrian Saghin Dudulea](https://github.com/z4na14)
+ * [Jorge Adrian Saghin Dudulea](https://github.com/Z4na14)
  * Daniel Ortiz Hincampié
  * [Alberto Núñez Sierra](https://github.com/rotlerxd)
  * [Konstantin Rannev](https://github.com/pahheb)
