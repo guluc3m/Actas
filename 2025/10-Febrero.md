@@ -1,4 +1,4 @@
-# Acta de la reunión del 30 de Septiempre de 2024
+# Acta de la reunión del 10 de Febrero de 2025
 
 ## Asistentes
 Asisten a la reunión:
