@@ -2,15 +2,21 @@
 
 ## Asistentes
 Asisten a la reunión:
-<!-- * [Luis Daniel Casais](https://github.com/rajayonin) -->
+* [Luis Daniel Casais](https://github.com/rajayonin)
 <!-- * [José Antonio Verde Jiménez](https://github.com/joseaverde) -->
-<!-- * [Jorge Adrian Saghin Dudulea](https://github.com/z4na14) -->
-<!-- * [Daniel Ortiz Hincampié](https://github.com/danielorhin34) -->
-<!-- * [Alberto Núñez Sierra](https://github.com/rotlerxd) -->
+* [Jorge Adrian Saghin Dudulea](https://github.com/z4na14)
+* [Daniel Ortiz Hincampié](https://github.com/danielorhin34)
+* [Alberto Núñez Sierra](https://github.com/rotlerxd)
 <!-- * [Konstantin Rannev](https://github.com/pahheb) -->
 <!-- * [Javier Martín Pizarro](https://github.com/jmartinpizarro) -->
-<!-- * [Hugo Pérez](https://github.com/hugoguionperez) -->
+* [Hugo Pérez](https://github.com/hugoguionperez)
 <!-- * [Lucas Madrid Garre](https://github.com/LuckyMG1) -->
+* Rodrigo Milton Campos
+* [Diego Rubio](https://github.com/DiegoRubiok1)
+* [Sergio Sánchez](https://github.com/seergiospm)
+* [Miguel Fernández](https://github.com/)
+* [Miguel Fernández](https://github.com/miguel-klstr)
+* [Alber Giurgiu](https://github.com/fedes1to)
 * Tux
 
 De forma remota:
@@ -20,7 +26,7 @@ De forma remota:
 ## Orden del día
 
 ### 1. Hola nuevos ~~esclavos~~
-
+Mucho Mint, no suficiente Arch, y **demasiado** Windows (2).
 
 ### 2. Temas de la asociación
 - Grupos de trabajo
