@@ -9,12 +9,11 @@ Asisten a la reunión:
 * [Alberto Núñez Sierra](https://github.com/rotlerxd)
 <!-- * [Konstantin Rannev](https://github.com/pahheb) -->
 <!-- * [Javier Martín Pizarro](https://github.com/jmartinpizarro) -->
-* [Hugo Pérez](https://github.com/hugoguionperez)
+* [Hugo Pérez](https://github.com/hugo-perez)
 <!-- * [Lucas Madrid Garre](https://github.com/LuckyMG1) -->
 * Rodrigo Milton Campos
 * [Diego Rubio](https://github.com/DiegoRubiok1)
 * [Sergio Sánchez](https://github.com/seergiospm)
-* [Miguel Fernández](https://github.com/)
 * [Miguel Fernández](https://github.com/miguel-klstr)
 * [Alber Giurgiu](https://github.com/fedes1to)
 * Tux
