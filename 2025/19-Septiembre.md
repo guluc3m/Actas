@@ -14,7 +14,7 @@ Asisten a la reunión:
 - Rodrigo Milton Campos
 - [Diego Rubio](https://github.com/DiegoRubiok1)
 - [Sergio Sánchez](https://github.com/seergiospm)
-- [Miguel Fernández](https://github.com/miguel-klstr)
+- [Miguel Monereo](https://github.com/Elmiguegv)
 - [Alber Giurgiu](https://github.com/fedes1to)
 - Tux
 
