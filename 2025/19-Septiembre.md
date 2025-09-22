@@ -16,6 +16,7 @@ Asisten a la reunión:
 - [Sergio Sánchez](https://github.com/seergiospm)
 - [Miguel Monereo](https://github.com/Elmiguegv)
 - [Alber Giurgiu](https://github.com/fedes1to)
+- [Pablo Rumynin Luchok](https://github.com/rumynin-L)
 - Tux
 
 <!-- De forma remota: -->
@@ -60,12 +61,12 @@ Set vota:
   - con los de AISC
   - Alber y Guillermo
 - Typst:
- - **Luisda**
- - Rodrigo
+  - **Luisda**
+  - Rodrigo
 - C++:
- - Javier
- - Alber
- - **José**
+  - Javier
+  - Alber
+  - **José**
 
 
 ### 4. Grupos de trabajo
