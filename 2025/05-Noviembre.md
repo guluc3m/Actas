@@ -14,7 +14,7 @@ Asisten a la reunión:
 - [Gabriel Moran Caton](https://github.com/GabrielMoCa)
 - [Henry Diaz Bordon](https://github.com/h3nry-d1az)
 - [Guillermo Gonzales Aviles](https://github.com/giyermo)
-* [Jorge Adrian Saghin Dudulea](https://github.com/z4na14) (LLEGA MUY TARDE)
+- [José Antonio Verde Jiménez](https://github.com/joseaverde) (LLEGA MUY TARDE)
 - Tux
 
 ## Orden del día
