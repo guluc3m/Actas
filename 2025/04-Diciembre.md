@@ -57,7 +57,7 @@ y si no, traemos nuestras USBs
 
 ### 3. Nodos del departamento de fisica
 
-Cuando ir y que coño llevarnos de ahi.
+Cuando ir y que llevarnos de ahi.
 -> Nos llevamos TODOS los discos
 - NAS (? complicado)
 - Tenemos 2 coches
@@ -74,9 +74,16 @@ Mirar como se reciclan (punto limpio / empresa)
 ### 4. Realizar efectivo el cambio de junta
 
 El que quiera quedarse, adelante. El resto nos vamos a quedar a
-rellenar <!-- a miguel cual pollo de navidad --> los formularios correspondientes.
+rellenar los formularios correspondientes.
 
 - Que la nueva junta pueda acceder al server (Jorge)
+
+#### Distribución final de la junta
+
+- Presidente: Jorge Adrian Saghin Dudulea
+- Vicepresidente: Luis Daniel Casais Mezquida
+- Secretario: Albert Giurgiu
+- Tesorero: Miguel Monereo Cuellar
 
 ### 5. Proyectos
 Terminar pagina web, mirar issue (@fedes1to)
