@@ -50,19 +50,19 @@ Asisten a la reunión:
 Tux estaria muy orgulloso en todas las personas que contribuyanla
 a la compra de pinchos nuevos para las intall parties :D.
 
-- "Hablar con JD" (Jorge)
-y si no, traemos nuestras USBs
+- "Hablar con JD" (Jorge) y si no, traemos nuestras USBs
 
 -> Se ve que los pinchos funcionan, pero Luisda no sabe como instalar Ventoy
 
 ### 3. Nodos del departamento de fisica
 
-Cuando ir y que llevarnos de ahi.
--> Nos llevamos TODOS los discos
+Cuando ir y que llevarnos de ahi. -> Nos llevamos TODOS los discos
+
 - NAS (? complicado)
 - Tenemos 2 coches
 
 Participantes en el robo de discos:
+
 - Gabriel
 - Matamoros
 - Alberto
@@ -86,7 +86,9 @@ rellenar los formularios correspondientes.
 - Tesorero: Miguel Monereo Cuellar
 
 ### 5. Proyectos
+
 Terminar pagina web, mirar issue (@fedes1to)
+
 - Update auto con actions
 - gul.uc3m.es/guia <- URL
 
@@ -95,6 +97,7 @@ OpenGL: muerto
 Typst: Publicando dentro de poco
 
 ### 6. Extras
+
 Mirar gul.es
 FTP y server limpiar
 Hablar cobre Corneja
