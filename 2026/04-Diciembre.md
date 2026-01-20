@@ -1,4 +1,5 @@
 # Acta de la reunión del 06 de febrero de 2026
+
 ## Asistentes
 
 Asisten a la reunión:
@@ -48,3 +49,8 @@ Hacerlo el cuatri que viene (septiembre 2026) o el siguiente para pedir dinero d
 ### 5. Servidor nuevo
 
 Meter aqui lo que se haya hablado ayer.
+
+### 6. GUL x CSA
+
+A tomar viento CSA, lo mergeamos con GUL y asi lo dejamos vivo mientras siga GUL
+tambien en pie.
