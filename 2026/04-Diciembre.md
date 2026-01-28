@@ -54,3 +54,9 @@ Meter aqui lo que se haya hablado ayer.
 
 A tomar viento CSA, lo mergeamos con GUL y asi lo dejamos vivo mientras siga GUL
 tambien en pie.
+
+CSA (Computer Science Association) -> CSG (Computer Science Group)
+
+### 7. Bingo actualizaciones Windows
+
+Se me acaba de ocurrir en el baño, lo voy apuntando.
