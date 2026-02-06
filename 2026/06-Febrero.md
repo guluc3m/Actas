@@ -5,15 +5,21 @@
 Asisten a la reunión:
 
 - [Jorge Adrian Saghin Dudulea](https://github.com/z4na14)
-- [Daniel Ortiz Hincampié](https://github.com/danielorhin34)
 - [Alberto Núñez Sierra](https://github.com/rotlerxd)
 - [Diego Rubio](https://github.com/DiegoRubiok1)
 - [Miguel Monereo](https://github.com/Elmiguegv)
-- [Alber Giurgiu](https://github.com/fedes1to)
+- [Albert Giurgiu](https://github.com/fedes1to)
 - [Gabriel Moran Caton](https://github.com/GabrielMoCa)
 - [Henry Diaz Bordon](https://github.com/h3nry-d1az)
 - [Guillermo Gonzales Aviles](https://github.com/giyermo)
-- [José Antonio Verde Jiménez](https://github.com/joseaverde)
+- [Héctor Molina](https://github.com/toriomg)
+- [Samuel Matamoros Alonso](https://github.com/samuelmatamoros)
+- [Rodrigo Milton Campos](https://github.com/rodrigo-m-campos)
+- [Alejandro Quirante Sanz](https://github.com/100522183)
+- [Ethan Gómez](https://github.com/gdethan11yoshi)
+- [Denis Loren Moldovan](https://github.com/DenisMoldi)
+- [Konstantin Rannev](https://github.com/Pahheb)
+
 - Tux
 
 ## Orden del día
