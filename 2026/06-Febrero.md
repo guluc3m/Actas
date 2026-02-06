@@ -29,26 +29,54 @@ Asisten a la reunión:
     - Albert
     - Guille
     - Si alguien mas se quiere apuntar o desistir
-- Invente Roamn invente...
+- Charla de C
+    - **Albert**
+    - Jorge
+    - Henry
+    - Alberto
+- Charla de Docker
+    - Ghiorghe
+    - Miguel
 
 ### 3. Nodos del departamento de fisica
 
 Tenemos X haul, que hacemos con esto ahora lol.
+
+-> Llaveros con los procesadores
+-> Vendemos todo lo q podemos
+
+Opel Corsa 1.6 Diesel FTW
 
 ### 4. Jornadas tecnicas
 
 Hacerlo el cuatri que viene (septiembre 2026) o el siguiente para pedir dinero de proyectos. Hace falta (Nada de vaguear, hay que pensarlo de ahora):
 
 - Consideramos los de Datadog para patrocinio y charlas? Mirar correo
+
 - Pagina web
   - Requisitos?
   - Actualizar repo
   - Backend? (Yo no se nada de web dev lol)
-- Hablar con profesores para pedirles ponencias
+  -> Diego, Henry, Garbiel, Miguel, Matamoros
+
+- Hablar con profesores para pedirles ponencias (Suerte hablando con JD Jorge)
+
+- Hablar con Datadog (Jorge)
 
 ### 5. Servidor nuevo
 
-Meter aqui lo que se haya hablado ayer.
+GULCraft (Albert)
+
+256GB RAM
+
+TESTEAR TEMA DNS
+
+Ideas para servidor:
+  - Server Minecraft
+  - Forgejo (Server de Git)
+  - Matrix (Fuck J. Sanchez)
+  - Copyparty (Publico) / NeXTCloud (Privado)
+  - + ideas aceptadas!
 
 ### 6. GUL x CSA
 
@@ -57,6 +85,40 @@ tambien en pie.
 
 CSA (Computer Science Association) -> CSG (Computer Science Group)
 
-### 7. Bingo actualizaciones Windows
+-> Presupuesto x2 y despacho nuestro
+Junta nueva en CSA:
+- Presidente: Miguel A
+- Secretario: Gabriel
+- Tesorero: Alberto
+- Vice: Denis
 
-Se me acaba de ocurrir en el baño, lo voy apuntando.
+### 7. Feria de asociaciones
+
+- Bingo actualizaciones Windows
+  - Cual de estos fallos son reales?
+  - Virus-as-a-feature
+    - Agregar a la pagina web tambien
+- Va la junta
+- Preguntas, quien gane se lleva RAM
+- Monitor CRT para ser sigma
+
+### 8. Grupos (nuevos) de trabajo
+
+- Taller de teclados
+  - Matamoros, Kostya, Alejandro, Ghiorghe
+- CP (Competitive Programming)
+  - Hacer concursos (CTF)
+  - Diego, Albert, y los que estan en Hackers GUL -> CSA
+  - Correos a profes (los de cyber) y se habla x el grupo
+  - Escribirle por privado a Jorge para el Discord
+- Actualizar pagina principal WEB
+  - Los mismos que los de las jornadas tecnicas
+  - Albert tiene que hacer lo del MD y vfio-passthrough
+
+### 9. Difusion
+
+- Usar Open para spam y SHITPOST
+- Redes sociales (solo DIFUSION)
+  - Instagram, WhatsApp, Twitter, 
+  - Miguel, Jorge, Albert, etc.
+- Grupo difusion WhatsApp -> Correo a delegacion
