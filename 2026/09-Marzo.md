@@ -33,7 +33,7 @@ Asisten a la reunión:
 
 ### 4. Jornadas tecnicas
 
-Datadog ha respondido, hay reunion el 12 de la misma semana.
+Datadog ha respondido, hay reunion el 12 de la misma semana (no responden lol).
 
 - Pagina web
   - Requisitos: Los preparamos ahora
@@ -45,15 +45,14 @@ Hablar con departamento de info para colaborar con ellos tambien, pero despues d
 
 ### 5. Servidor nuevo
 
-- GULCraft (Albert)
-- Servidor XMPP
-- Colaboracion con Aedipo
+Mañana se instala el proxmox, que el jueves hubo problemas. Hablar sobre que usuarios crear para que la gente se meta a
+hacer cosas.
 
 256GB RAM
 Ideas para servidor:
-  - Server Minecraft
+  - Server Minecraft (GULcraft)
   - Forgejo (Server de Git)
-  - Matrix (Fuck J. Sanchez)
+  - XMPP
   - Copyparty (Publico) / NeXTCloud (Privado)
   - + ideas aceptadas!
 
@@ -61,12 +60,6 @@ Ideas para servidor:
 
 - Taller de teclados
   - Matamoros, Kostya, Alejandro, Ghiorghe
-- CP (Competitive Programming)
-  - Hacer concursos (CTF)
-  - Diego, Albert, y los que estan en Hackers GUL -> CSA
-  - Correos a profes (los de cyber) y se habla x el grupo
-  - Escribirle por privado a Jorge para el Discord
 - Actualizar pagina principal WEB
   - Los mismos que los de las jornadas tecnicas
   - Albert tiene que hacer lo del MD y vfio-passthrough
-
