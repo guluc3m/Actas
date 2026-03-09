@@ -30,6 +30,8 @@ Asisten a la reunión:
     - Gabriel
     - Alejandro
     - Ghiorghe
+- Charla Propaganda Linux
+    - Ghiorghe
 (TALLER)
 - Monta tu propio ordenador! (Siguiente curso)
   - Albert
