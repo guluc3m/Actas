@@ -1,4 +1,4 @@
-# Acta de la reunión del 06 de febrero de 2026
+# Acta de la reunión del 09 de marzo de 2026
 
 ## Asistentes
 
