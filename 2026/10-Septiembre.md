@@ -14,33 +14,31 @@ Asisten a la reunion:
 
 ### 1. Eventos
 
-- Linux / Git
-- LAN party
+- Linux / Git -> Segunda / Tercera semana de septiembre (Reservar hoy)
+- LAN party -> Febrero / Marzo (Hay que reservar aula y hablar con infra)
 - Charla Docker -> Maybe jornadas?
-- Charla self-hosting (hay interes por personas externas)
 - Taller monta tu propio ordenador
 - Alguien ha dicho Typst?
+- CTF semana de la ciencia -> Finales ocutbre / Principios noviembre (Asignar miembros)
 
 
 ### 2. Camisetas
-Vamos a rehacer camisetas con mas tallas grandes (por lo que sea). Membrete de GUL en el pecho, y detras diseño a elegir.
-
+Camisetas pedidas, a pagar y las damos.
 
 ### 3. Jornadas tecnicas
 Pagina ligeramente acabada. Hablar con departamento de info y elegir el resto de charlas entre nosotros.
 
 - 4 dias
 - 2 charlas / talleres por dia
-  - Taller de gestion de servidores con Datadog
-  - Reservado Datadog
-  - Reservado Info x 4
-  - Otras dos charlas a proponer
-    - Taller de soldadura (Samu)
 
-
-### 4. Servidor nuevo
-Vamos a ir a colocar los nuevos chips, y hay que mandar correo a infra para los nuevos dominios y accesos (A fecha en la que escribe el acta, esta en espera para no pedirlo justo despues de la filtracion). Jorge ya tiene diseñado como montarlo.
-
+| conf | ponente            | contenido                     |
+| ---- | ------------------ | ---------------               |
+| -    | Carlos Linares     | Golang                        |
+| -    | Marcos Martín Pozo | Rust / Nix ?                  |
+| x    | Hector Molina      | OpenGL                        |
+| x    | Johe               | Gaming on Linux               |
+| -    | -                  | Taller gestion de servidores? |
+| -    | Samu Matamoros     | Taller soldadura              |
 
 ### 5. Grupos de trabajo
 
