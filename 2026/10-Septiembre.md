@@ -20,6 +20,7 @@ Asisten a la reunion:
 - Taller monta tu propio ordenador
 - Alguien ha dicho Typst?
 - CTF semana de la ciencia -> Finales ocutbre / Principios noviembre (Asignar miembros)
+- CSG?
 
 
 ### 2. Camisetas
