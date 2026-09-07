@@ -22,18 +22,23 @@ Asisten a la reunion:
 - CTF semana de la ciencia -> Finales ocutbre / Principios noviembre (Asignar miembros)
 - CSG?
 
-
 ### 2. Camisetas
+
 Camisetas pedidas, a pagar y las damos.
 
-### 3. Jornadas tecnicas
+### 3. Remodelado pagina
+
+Hector propone nuevo diseño y se asignan personas para el trabajo.
+
+### 4. Jornadas tecnicas
+
 Pagina ligeramente acabada. Hablar con departamento de info y elegir el resto de charlas entre nosotros.
 
 - 4 dias
 - 2 charlas / talleres por dia
 
 | conf | ponente            | contenido                     |
-| ---- | ------------------ | ---------------               |
+| ---- | ------------------ | ----------------------------- |
 | -    | Carlos Linares     | Golang                        |
 | -    | Marcos Martín Pozo | Rust / Nix ?                  |
 | x    | Hector Molina      | OpenGL                        |
@@ -44,16 +49,16 @@ Pagina ligeramente acabada. Hablar con departamento de info y elegir el resto de
 ### 5. Grupos de trabajo
 
 - Actualizar pagina web:
-  - Guias (gul.uc3m.es/guias):
-    - Guia de VFIO escrita
-    - Buscar para pasar la guia de linux -- https://github.com/guluc3m/linux-install/pull/19
-  - Pagina principal: Se propone renovarla.
-  - ver cómo montar para actualizar las páginas con GitHub actions (ver [guluc3m/linux-install#11](https://github.com/guluc3m/linux-install/issues/11))
+    - Guias (gul.uc3m.es/guias):
+        - Guia de VFIO escrita
+        - Buscar para pasar la guia de linux -- https://github.com/guluc3m/linux-install/pull/19
+    - Pagina principal: Se propone renovarla.
+    - ver cómo montar para actualizar las páginas con GitHub actions (ver [guluc3m/linux-install#11](https://github.com/guluc3m/linux-install/issues/11))
 - Arreglar el nextcloud por Dios
 - Plantilla de Typst equisdé
 - Alguien ha dicho Rust?
 
-
 ### 6. Reuniones
+
 - Hacemos bi-mensuales? (cada dos meses)
 - Otra opción es hacerlas semanales/bi-semanales, a distintas horas, y usarlo más para juntarnos los panas a culiar. Puede haber reuniones más "tochas" cuando se necesiten (votaciones, organizar, etc.).
