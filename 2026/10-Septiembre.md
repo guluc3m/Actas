@@ -58,6 +58,7 @@ Pagina ligeramente acabada. Hablar con departamento de info y elegir el resto de
 | ---- | ------------------ | --------------------------------------- |
 | -    | Carlos Linares     | Golang                                  |
 | -    | Marcos Martín Pozo | Rust / Nix ?                            |
+| x    | Luisda / Alvaro G. | Rust                                    |
 | x    | Hector Molina      | OpenGL                                  |
 | x    | Johe               | Gaming on Linux                         |
 | -    | -                  | Taller gestion de servidores? (DataDog) |
@@ -70,26 +71,27 @@ Pagina ligeramente acabada. Hablar con departamento de info y elegir el resto de
 - Si lo traemos desde más asociaciones seguramente nos den las aulas que queramos.
 - Para promo, ponemos la URL dibujada con tiza o tinta en las pizarras en una esquina. (1, 2, 4)
 
-### 5. Grupos de trabajo
 
+### 5. Grupos de trabajo
 - Actualizar pagina web:
     - Guias (gul.uc3m.es/guias):
         - Guia de VFIO escrita
-        - Buscar para pasar la guia de linux -- https://github.com/guluc3m/linux-install/pull/19
+        - Pasar la guia de linux -- [guluc3m/linux-install#19](https://github.com/guluc3m/linux-install/pull/19)
     - Pagina principal: Se propone renovarla. -> Hablado
     - ver cómo montar para actualizar las páginas con GitHub actions (ver [guluc3m/linux-install#11](https://github.com/guluc3m/linux-install/issues/11))
 - Arreglar el nextcloud por Dios -> ya está copyparty, solo queda mover todos los archivos.
 - Plantilla de Typst -> Nos ponemos a revisar lo que falte y hacer MR al repo.
 - Supercomputador C3 -> Preguntar a asociaciones si es inventariable. Se sigue hablando sobre ideas que podamos tirarle.
 
-### 6. Reunión con BEST
 
-Vamos a reunirnos con la mano derecha de Huete. Proponer ideas para mostrarles y que nos ayuden con nuestros talleres y eventos.
+### 6. Reunión con BEST
+Vamos a reunirnos mañana con la mano derecha de Huete. Proponer ideas para mostrarles y que nos ayuden con nuestros talleres y eventos.
+
 
 ### 7. Reuniones
+- Una reunion cada mes, hacemos poll por el grupo de que día, se quedaría de 13:00 - 15:00 y el que quiera venir que venga (hora discutible)
+    - Se aprovechará para trabajar proyectos de la asociación
 
-- Una reunion cada dos semanas, hacemos poll por el grupo de que día, y la junta se quedaría de 1:00 - 3:00 y el que quiera venir que venga (hora discutible)
 
-### 8. Asrob
-
+### 8. ASROB
 Charlas y talleres con ellos. Jornadas técnicas? Nos contactarán
