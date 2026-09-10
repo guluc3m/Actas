@@ -58,7 +58,11 @@ Pagina ligeramente acabada. Hablar con departamento de info y elegir el resto de
 - Plantilla de Typst equisdé
 - Alguien ha dicho Rust?
 
-### 6. Reuniones
+### 6. Reunión con BEST
+
+Vamos a reunirnos con la mano derecha de Huete. Proponer ideas para mostrarles y que nos ayuden con nuestros talleres y eventos.
+
+### 7. Reuniones
 
 - Hacemos bi-mensuales? (cada dos meses)
 - Otra opción es hacerlas semanales/bi-semanales, a distintas horas, y usarlo más para juntarnos los panas a culiar. Puede haber reuniones más "tochas" cuando se necesiten (votaciones, organizar, etc.).
